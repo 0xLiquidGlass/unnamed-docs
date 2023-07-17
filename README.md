@@ -7,7 +7,7 @@ This repository contains all relevant documentation on Unnamed (e.g. Unnamed Wal
 
 The documentation will be stored according to its relevant topics
 
-For Example:
+For example, you would want to find out more on Unnamed Wallet specific topics:
 
 `unnamed-wallet/intro` --> Contains all the documentation on how Unnamed 
 Wallet works
@@ -21,7 +21,7 @@ for developers to build on Unnamed Wallet
 Every directory will contain a README.md to allow readers to have a 
 better understanding of what topic is in the directory
 
-# Licensing
+## Licensing
 
 Written By: Liquid Glass
 
