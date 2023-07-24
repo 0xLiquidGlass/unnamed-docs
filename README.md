@@ -18,8 +18,8 @@ to use Unnamed Wallet
 `unnamed-wallet/api` --> Contains the necessary API information in order 
 for developers to build on Unnamed Wallet
 
-Every directory will contain a README.md to allow readers to have a 
-better understanding of what topic is in the directory
+Directories may contain a README.md to allow readers to have a 
+better understanding of what topic is discussed in the directory
 
 ## Licensing
 
