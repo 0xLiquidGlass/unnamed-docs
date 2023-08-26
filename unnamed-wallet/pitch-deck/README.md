@@ -1,3 +1,3 @@
 # Pitch Deck
 
-Pitch deck for Unnamed Wallet
+Pitch decks for Unnamed
